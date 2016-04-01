@@ -10,6 +10,9 @@ def main():
 
     GUI_Module.main()
 
+    Foo = 99
+    for k in range(Foo):
+        print k
 
 
 
