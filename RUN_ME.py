@@ -10,6 +10,10 @@ def main():
     Foo = 55;
     print Foo
 
+    Foo2 = 100;
+    print Foo2
+
+
 
 
 
