@@ -7,11 +7,9 @@ import csv
 
 
 def main():
-    Foo = 55;
-    print Foo
 
-    Foo2 = 100;
-    print Foo2
+    GUI_Module.main()
+
 
 
 
